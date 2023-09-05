@@ -83,14 +83,17 @@ PR 제목: 이름 / 해당 과제 스터디 날짜 / 출처 태그 / 업로드 �
 
 <table>
  <tr>
+    <td align="center"><a>김수민</a></a>
     <td align="center"><a>류예지</a></a>
     <td align="center"><a>하지수</a></a>
   </tr>
  <tr>
+    <td align="center"><a href="https://github.com/sumingq"><img src="https://avatars.githubusercontent.com/sumingq" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Ryuyraji"><img src="https://avatars.githubusercontent.com/Ryuyraji" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/xaesu"><img src="https://avatars.githubusercontent.com/xaesu" width="130px;" alt=""></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/sumingq"><b>@sumingq</b></a></td>
     <td align="center"><a href="https://github.com/Ryuyraji"><b>@Ryuyraji</b></a></td>
     <td align="center"><a href="https://github.com/xaesu"><b>@xaesu</b></a></td>
   </tr>
@@ -102,10 +105,10 @@ PR 제목: 이름 / 해당 과제 스터디 날짜 / 출처 태그 / 업로드 �
 
 ## 🎲 Progress
 
-| Date | Contents | @Ryuyraji | @xaesu |
-| --- | --- | --- | --- |
-|23.09.08| **명품 C++ 프로그래밍** <br/> Chap. 3 <클래스와 객체> | 이론 -  과제 -  스터디 - | 이론 ☑️ 과제 ☑️ 스터디 참여 - |
-|23.09.15| **명품 C++ 프로그래밍** <br/> Chap. 4 <객체 포인터와 배열, 동적생성> | 이론 - 과제 - 스터디 - | 이론 - 과제 - 스터디 참여 - |
+| Date | Contents |  @sumingq | @Ryuyraji | @xaesu |
+| --- | --- | --- | --- | --- |
+|23.09.08| **명품 C++ 프로그래밍** <br/> Chap. 3 <클래스와 객체> | 이론 -  과제 -  스터디 - | 이론 ☑️ 과제 ☑️ 스터디 - | 이론 - 과제 - 스터디 - |
+|23.09.15| **명품 C++ 프로그래밍** <br/> Chap. 4 <객체 포인터와 배열, 동적생성> | 이론 - 과제 - 스터디 - | 이론 - 과제 - 스터디 - | 이론 - 과제 - 스터디 - |
 
 
 <br/><br/><br/>

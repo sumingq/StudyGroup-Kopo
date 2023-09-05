@@ -11,7 +11,7 @@
       🚩
     </td>
     <td>
-      <img src="https://img.shields.io/badge/2023.09.01 ~ ing-F01414?style=plastic&logo">
+      <img src="https://img.shields.io/badge/2023.09.08 ~ ing-F01414?style=plastic&logo">
     </td>
   </tr>
  
@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/18:00 ~ 19:00-FFFFFF?style=plastic&logo">
       <br/>
       <img src="https://img.shields.io/badge/F R I-FF7200?style=plastic&logo">
-      <img src="https://img.shields.io/badge/16:00 ~ 17:00-FFFFFF?style=plastic&logo">
+      <img src="https://img.shields.io/badge/16:00 ~ 17:30-FFFFFF?style=plastic&logo">
    </tr>
    
    <tr>
@@ -104,8 +104,8 @@ PR 제목: 이름 / 해당 과제 스터디 날짜 / 출처 태그 / 풀이 진�
 
 | Date | Contents | @Ryuyraji | @xaesu |
 | --- | --- | --- | --- |
-|23.09.04| **명품 C++ 프로그래밍** <br/> chap. 3 실습문제 풀이 | - / 12 | 13 / 12 |
-|23.09.08| **명품 C++ 프로그래밍** <br/> chap. 4 실습문제 풀이 | - / 14 | - / 14 |
+|23.09.08| **명품 C++ 프로그래밍** <br/> Chap. 3 <클래스와 객체> | 이론 -  과제 -  스터디 - | 이론 ☑️ 과제 ☑️ 스터디 참여 - |
+|23.09.15| **명품 C++ 프로그래밍** <br/> Chap. 4 <객체 포인터와 배열, 동적생성> | 이론 - 과제 - 스터디 - | 이론 - 과제 - 스터디 참여 - |
 
 
 <br/><br/><br/>

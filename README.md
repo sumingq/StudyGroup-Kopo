@@ -20,11 +20,8 @@
       ✍️
     </td>
      <td>
-      <img src="https://img.shields.io/badge/MON-FF7200?style=plastic&logo">
-      <img src="https://img.shields.io/badge/18:00 ~ 19:00-FFFFFF?style=plastic&logo">
-      <br/>
-      <img src="https://img.shields.io/badge/F R I-FF7200?style=plastic&logo">
-      <img src="https://img.shields.io/badge/16:00 ~ 17:30-FFFFFF?style=plastic&logo">
+      <img src="https://img.shields.io/badge/매주-FF7200?style=plastic&logo">
+      <img src="https://img.shields.io/badge/수업 이후 1시간씩-FFFFFF?style=plastic&logo">
    </tr>
    
    <tr>
@@ -107,8 +104,10 @@ PR 제목: 이름 / 해당 과제 스터디 날짜 / 출처 태그 / 업로드 �
 
 | Date | Contents |  @sumingq | @Ryuyraji | @xaesu |
 | --- | --- | --- | --- | --- |
-|23.09.08| **명품 C++ 프로그래밍** <br/> Chap. 3 <클래스와 객체> | 이론 -  과제 -  참여 - | 이론 - 과제 - 참여 - | 이론 ☑️ 과제 ☑️ 참여 - |
-|23.09.15| **명품 C++ 프로그래밍** <br/> Chap. 4 <객체 포인터와 배열, 동적생성> | 이론 - 과제 - 참여 - | 이론 - 과제 - 참여 - | 이론 - 과제 - 참여 - |
+|23.9 1주| **명품 C++ 프로그래밍** <br/> Chap. 3 <클래스와 객체> | ☑️ | ☑️ | ☑️ |
+|23.9 2주| **명품 C++ 프로그래밍** <br/> Chap. 4 <객체 포인터와 배열, 동적생성> | ☑️ | ☑️ | ☑️ |
+|23.9 3주| **명품 C++ 프로그래밍** <br/> Chap. 5 <함수와 참조, 복사 생성자> | - | - | - |
+|23.9 4주| **명품 C++ 프로그래밍** <br/> Chap. 6 <함수 중복과 static 멤버> | - | - | - |
 
 
 <br/><br/><br/>

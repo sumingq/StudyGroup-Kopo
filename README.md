@@ -21,7 +21,10 @@
     </td>
      <td>
       <img src="https://img.shields.io/badge/매주-FF7200?style=plastic&logo">
-      <img src="https://img.shields.io/badge/수업 이후 1시간씩-FFFFFF?style=plastic&logo">
+      <img src="https://img.shields.io/badge/1챕터씩 완독 및 문제 풀이-FFFFFF?style=plastic&logo">
+      <br>
+      <img src="https://img.shields.io/badge/매일-FF7200?style=plastic&logo">
+      <img src="https://img.shields.io/badge/수업 이후 1시간씩 공부-FFFFFF?style=plastic&logo">
    </tr>
    
    <tr>
